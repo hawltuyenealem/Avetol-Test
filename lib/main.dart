@@ -1,4 +1,4 @@
-import 'package:avetol_test/screens/first_page.dart';
+import 'package:avetol_test/widgets/first_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {

@@ -2,7 +2,7 @@ import 'package:feather_icons/feather_icons.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'home_page_screen.dart';
+import '../screens/home_page_screen.dart';
 
 class FirstPage extends StatefulWidget {
   const FirstPage({super.key});
